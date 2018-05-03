@@ -5,10 +5,10 @@ xmlns:gap = "http://phonegap.com/ns/1.0"
 id = "com.phonegap.app1"
 version = "1.0.0">
  
- <name> app3 Día Mundial de la Bicicleta </name>
- 
+  <name> app3 la contaminacion de mi comunidad </name>
+
  <description>
- Aplicaion sobre el Día Mundial de la Bicicleta
+ Aplicaion sobre la contaminacion de mi comunidad
  </description>
  
  <author href="https://build.poneghap.com" email = "kimaro506@gmail.com">
